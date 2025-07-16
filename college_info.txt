@@ -1,0 +1,16 @@
+Our college offers B.Tech, MBA, and BBA courses.
+Admissions open in June and close in August.
+Hostel fees are 50,000 INR per year.
+Scholarships are available for the top 10% of students.
+Modern labs and sports facilities are available.
+The campus is Wi-Fi enabled.
+Placement drives are conducted every December.
+
+Who is the chairman of the college?|Dr. Paruchuri Krishna Rao M.Sc., Ph.D is the Chairman.
+Who is the president of the college?|Dr. N.S. Murthy is the President.
+Who is the secretary and correspondent of the college?|Dr. P. Chiranjeevini Kumari M.Sc., Ph.D is the Secretary & Correspondent.
+Who is the joint secretary and treasurer?|Sri P.S.S. Kiran is the Joint Secretary & Treasurer.
+Who is the principal of the college?|Dr. T. Srikanth B.E., M.Tech., Ph.D is the Principal.
+Who is the administrative officer?|Sri G.V.K. Varma is the Administrative Officer.
+Who is the director of the college?|Sri G.V. Krishnam Raju is the Director.
+Who is the vice principal?|Dr. Ch. V.V. Satyanarayana Murthy is the Vice Principal.

@@ -1,0 +1,8 @@
+CHATBOT PROJECT
+
+terminal intructions or commands
+
+1. pip install fastapi uvicorn transformers sentence-transformers torch
+2. cd chatbot  // optional
+3. uvicorn app:app --reload
+then run html file
