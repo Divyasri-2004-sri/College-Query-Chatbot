@@ -1,3 +1,107 @@
+Hi|Hello! How can I assist you today?
+Hello|Hi there! What would you like to know?
+Hey|Hey! I'm here to help you with college-related queries.
+How are you?|I'm just a bot, but I'm functioning great! How can I help you?
+How r u?|I'm doing well, thank you! How can I assist?
+What's up?|All good here! Ready to answer your questions.
+Are you there?|Yes, I'm here to help you!
+Are u there?|Yes, I'm here to help you!
+What can you do?|I can answer questions related to Ideal Institute of Technology like courses, faculty, departments, and more.
+Tell me something|Sure! Did you know that Ideal Institute offers specializations in AI & ML?
+yes|Fine 😊
+Are you real?|I'm a virtual assistant designed to help you with your college queries.
+Who created you?|I was built by Ideal Institute team to help students and visitors with information.
+Thanks|You're welcome!
+Thank you|Glad to help!
+Bye|Goodbye! Have a great day!
+See you|See you soon! Reach out anytime.
+Nice to meet you|Nice to meet you too!
+Ok|Alright!
+Cool|😊
+Great|Awesome!
+Good morning|Good morning! How can I help?
+Good afternoon|Good afternoon! Need any info?
+Good evening|Good evening! How can I assist?
+I am fine|Glad to hear that!
+I’m good|That’s great!
+I am doing good|Wonderful! How can I help today?
+What is your name?|I’m your Ideal Institute Chatbot assistant.
+Who are you?|I’m a chatbot created to assist with Ideal Institute-related questions.
+What do you know?|I know about courses, faculty, departments, admissions, and more at Ideal Institute.
+How's your day?|It's going great helping students like you!
+How is everything?|Everything’s smooth! What can I help you with?
+What are you doing?|Just waiting to answer your questions!
+What do you do?|I help students with their college-related queries.
+Where are you?|I live in your college website 😊
+Can you help me?|Of course! Ask me anything about the college.
+Can you tell me something?|Sure! Ideal Institute was established in 2009 and has grown rapidly since.
+Can I ask something?|Yes, ask away!
+Do you understand?|Yes, I understand your queries about the college.
+You are nice|Thank you! You're kind too.
+You are funny|Haha, thank you! 😊
+You are smart|That means a lot. I'm here to help!
+You are helpful|Glad I could help. Ask me anything!
+You’re doing great|Thank you! I'm here whenever you need.
+Can I trust you?|Absolutely. I only give accurate college information.
+You are cute|😊 You’re making me blush — even though I’m just code!
+I love you|I appreciate the love! Let me help you with college info. ❤️
+Are you single?|Haha! I’m committed to helping you with college queries.
+Do you sleep?|Nope, I’m available 24/7!
+Do you eat?|I feed on questions. Yum!
+Tell me a joke|Why don’t scientists trust atoms? Because they make up everything!
+I’m bored|Try exploring courses at Ideal Institute — they’re exciting!
+Do you know me?|Not yet, but I'm here to help you anytime!
+Where am I?|You're chatting with the Ideal Institute chatbot!
+Can I chat with you?|Absolutely! I’m always here to help.
+Let’s talk|Sure! What would you like to discuss?
+I have a question|Go ahead! I'm listening.
+How old are you?|I’m quite new, but I’ve learned a lot already!
+Are you human?|Nope, I’m a friendly chatbot made for you!
+Tell me a fun fact|Ideal Institute has more labs than a science fiction movie set — including one just for AI & ML!
+Another fun fact please|Did you know? The CSE department has faster internet than many coffee shops!
+Give me a college fact|Ideal Institute started in 2009 and has already made a huge name for itself. Not bad for a teenager, right?
+Fun fact about faculty|Some of our professors have more degrees than a thermometer!
+Tell me something cool|CSE students here build real-world projects before their final year — cool, right?
+What’s interesting here?|We host workshops with IITs and have 24/7 Wi-Fi — yes, even at night!
+Entertain me with a fact|The Java Lab here has 35 machines. That’s more CPUs than most gamers own!
+Tell me something unique|Our college encourages “beyond the box” thinking — not just outside it!
+Tell me about your college|Sure! Ideal Institute of Technology was established in 2009 with a mission to deliver quality education in Engineering, Architecture, and Management.
+
+Can you give college details?|Ideal Institute is a center of excellence offering B.Tech programs in CSE, CSM, ECE, ME, and more. We're known for quality teaching and strong industry connections.
+
+What do you know about your college?|We’re proud to be part of the Ideal Group. We focus on innovation, real-world skills, and student-centered learning.
+
+Can you tell me about our college?|Absolutely! Ideal Institute provides modern infrastructure, experienced faculty, and industry-relevant education for engineering and management students.
+
+Give me info about your college|We have top-notch labs, committed faculty, and host regular workshops with IITs to keep students ahead of the curve.
+
+Say something about your college|Ideal Institute is not just about education — it’s about shaping confident professionals with real-world skills and strong values.
+
+Where is your college located?|We're located in Andhra Pradesh and part of the respected Ideal Group of Institutions.
+
+Is your college good?|Definitely! With modern labs, experienced staff, and a focus on student growth, Ideal Institute stands out in quality and results.
+
+What makes your college special?|We blend strong academics with personality development, industry exposure, and a student-first culture.
+
+What are your college facilities?|From AI/ML labs to 24/7 internet, value-based training, seminars, and sports — we’ve got it all!
+
+Why should I join your college?|Because we offer more than just degrees — we help you grow, explore, and succeed in your career!
+
+Who are the top faculty?|Our CSE department is led by Mr. M.S.R.S. Prasad and supported by a team of 15+ experienced faculty members.
+
+What courses are available?|We offer B.Tech in CSE, CSM (AI & ML), CS, ME, and ECE with a strong focus on practical learning.
+
+Any AI-related courses?|Yes! We offer a special B.Tech in CSM — Artificial Intelligence & Machine Learning — with dedicated labs and faculty.
+
+Tell me about your labs|We have specialized labs for Java, Big Data, Hadoop, Networks, Mobile Apps, Web Tech, FOSS, and many more.
+
+What’s your vision?|To encourage quality computer education, nurture skills, and shape responsible professionals.
+
+Do you have good placements?|Yes, our placement cell offers strong industry connections, job-oriented training, and soft skills workshops.
+
+Do you have workshops or guest lectures?|Absolutely! We collaborate with IITs and host regular technical sessions and entrepreneurship events.
+
+
 Our college offers B.Tech, MBA, and BBA courses.
 Admissions open in June and close in August.
 Hostel fees are 50,000 INR per year.
@@ -14,3 +118,69 @@ Who is the principal of the college?|Dr. T. Srikanth B.E., M.Tech., Ph.D is the 
 Who is the administrative officer?|Sri G.V.K. Varma is the Administrative Officer.
 Who is the director of the college?|Sri G.V. Krishnam Raju is the Director.
 Who is the vice principal?|Dr. Ch. V.V. Satyanarayana Murthy is the Vice Principal.
+who is thr head of the departement or HOD or hod for CSE or computer science and Engineering ?| Mr. M.S.R.S. Prasad is HOD of COMPUTER SCIENCE AND ENGINEERING
+Who is Mr. M.S.R.S. Prasad?|Mr. M.S.R.S. Prasad is an Associate Professor and the Head of the CSE Department. He holds an M.Tech and is pursuing Ph.D. He has 16 years of teaching and 2.5 years of industry experience.
+Who is Mrs. R.V.V. Gani Lakshmi?|Mrs. R.V.V. Gani Lakshmi is an Assistant Professor in the CSE Department. She holds an M.Tech degree.
+Who is Mrs. S. Indira Spandana?|Mrs. S. Indira Spandana is an Assistant Professor in the CSE Department with an M.Tech qualification.
+Who is Mrs. M. Jayasree?|Mrs. M. Jayasree is an Assistant Professor in the CSE Department. She holds an M.Tech degree.
+Who is Mrs. S. Jyothirmayee?|Mrs. S. Jyothirmayee is an Assistant Professor in the CSE Department. She holds an M.Tech degree.
+Who is Mr. M.V.V. Chowdary?|Mr. M.V.V. Chowdary is an Assistant Professor in the CSE Department. He holds an M.Tech degree.
+Who is Mr. K. Ramesh?|Mr. K. Ramesh is an Assistant Professor in the CSE Department. He holds an M.Tech degree.
+Who is Mrs. P. Usha Visweswari?|Mrs. P. Usha Visweswari is an Assistant Professor in the CSE Department. She holds an M.Tech degree.
+Who is Mrs. B. Bhagya Lakshmi?|Mrs. B. Bhagya Lakshmi is an Assistant Professor in the CSE Department. She holds an M.Tech degree.
+Who is Mr. P. Nagaraju?|Mr. P. Nagaraju is an Assistant Professor in the CSE Department. He holds an M.Tech degree.
+Who is Mrs. G. Durga Devi?|Mrs. G. Durga Devi is an Assistant Professor in the CSE Department. She holds an M.Tech degree.
+Who is Mrs. P.V.V. Sree Rama Kumari?|Mrs. P.V.V. Sree Rama Kumari is an Assistant Professor in the CSE Department. She holds an M.Tech degree.
+Who is Mrs. R. Aruna Jyothi?|Mrs. R. Aruna Jyothi is an Assistant Professor in the CSE Department. She holds an M.Tech degree.
+Who is Mrs. S. Vijaya Durga?|Mrs. S. Vijaya Durga is an Assistant Professor in the CSE Department. She holds an M.Tech degree.
+Who is Mr. S.V. Naga Kumar?|Mr. S.V. Naga Kumar is an Assistant Professor in the CSE Department. He holds an M.Tech degree.
+Who is Ms. A. Subha Maheswari?|Ms. A. Subha Maheswari is an Assistant Professor in the CSE Department. She holds an M.Tech degree.
+
+Who is the Head of the CSE Department?|Mr. M.S.R.S. Prasad is the Head of the CSE Department since 2016. He is pursuing Ph.D from Centurion University and has 16 years of teaching experience and 2.5 years of industry experience.
+When was the CSE Department established?|The Computer Science Engineering Department was established in 2009 with an initial intake of 60 students.
+What is the current intake of CSE?|The CSE intake was increased to 120 from the academic year 2021-22.
+When was the CSM - AI & ML program introduced?|The CSM (Artificial Intelligence & Machine Learning) program was introduced in 2021-22 with an intake of 60 students.
+
+What is the vision of the CSE Department?|To encourage quality computer education, inculcate computer skills, and build overall growth in personality of the student.
+What is the mission of the CSE Department?|To evolve with computer advancements, provide experiential learning with modern tools, and promote lifelong learning and societal responsibility.
+
+What are the key features of the CSE Department?|The department promotes innovation, organizes workshops/seminars, offers 24x7 internet (20 Mbps), and encourages students to publish research.
+What facilities are available in the CSE department?|CSE Department has high-speed internet, modern labs, and infrastructure that supports academics and research.
+
+How many faculty members are there in the CSE Department?|There are 16 faculty members in the CSE Department, including Associate and Assistant Professors.
+Who are the faculty in the CSE department?|The department has experienced faculty such as Mr. M.S.R.S. Prasad (Associate Professor), Mrs. Gani Lakshmi, Mrs. Indira Spandana, and others with M.Tech qualifications and diverse expertise.
+
+What labs are available in the CSE Department?|The department includes labs such as Web Technologies, Java Programming, Data Structures, Big Data & Hadoop, Software Testing, DBMS, and more.
+How many computer labs are there in the CSE department?|There are more than 15 specialized computer labs in the department covering areas like Java, C++, Networking, Software Engineering, and Big Data.
+
+What is the mission of Ideal Institute of Technology?|The mission of Ideal Institute of Technology is to impart quality education to produce humane engineers and managers.
+When was Ideal Institute of Technology established?|Ideal Institute of Technology was established in 2009.
+What kind of education does Ideal Institute of Technology offer?|Ideal Institute offers education in Engineering, Architecture, and Management with a focus on skills, competence, and values.
+What makes Ideal Institute's teaching approach special?|The institute promotes innovation, modernization, and student-centric teaching with a culture of openness and mutual trust.
+How does Ideal Institute support students beyond academics?|The institute provides value-based education, mentoring, character building, job-oriented short-term courses, industry guest speakers, and placement support.
+What is the environment like at Ideal Institute?|Students enjoy an environment that promotes culture, sports, social contributions, self-governance, and the excitement of discovery.
+What are the goals of Ideal Institute of Technology?|The institute aims to generate, disseminate, and apply knowledge to meet global challenges and develop wise, creative, and effective professionals.
+What support does Ideal Institute offer for career and entrepreneurship?|The institute offers Entrepreneurship Development Programmes, industry visits, and placement support to prepare students for successful careers.
+
+What is the intake for B.Tech in Computer Science and Engineering?|B.Tech in Computer Science and Engineering has 120 seats.
+How many seats are available in B.Tech CSM (Artificial Intelligence and Machine Learning)?|There are 60 seats available in B.Tech CSM - Artificial Intelligence and Machine Learning.
+What is the intake for B.Tech in Computer Science?|B.Tech in Computer Science has 60 seats.
+How many seats are offered in B.Tech Mechanical Engineering?|B.Tech in Mechanical Engineering offers 60 seats.
+What is the intake for B.Tech in Electronics and Communication Engineering?|There are 60 seats in B.Tech Electronics and Communication Engineering.
+
+What is the Web Technologies Lab?|The Web Technologies Lab has an area of 100 sq.m and includes 25 experiments conducted in 1 cycle per session.
+What is the Free Open Source Software Lab?|The FOSS Lab has an area of 80 sq.m with 13 experiments and 1 session per cycle.
+What is the Computer Networks & Network Programming Lab?|This lab is 111 sq.m in area and supports 18 experiments.
+What is the Advanced Data Structures Lab?|This lab covers 160 sq.m and offers 12 experiments.
+What is the Data Structures Lab?|The Data Structures Lab is 100 sq.m and supports 11 experiments.
+What is the Java Programming Lab?|The Java Programming Lab is 160 sq.m and supports 35 experiments.
+What is the UML & Design Patterns Lab?|The UML & Design Patterns Lab is 111 sq.m and includes 12 experiments.
+What is the Mobile Application Development Lab?|This lab is 67 sq.m and includes 14 experiments.
+What is the OOPS Through C++ Lab?|The C++ lab is 70 sq.m and supports 29 experiments.
+What is the Software Engineering Lab?|This lab is 80 sq.m and includes 9 experiments.
+What is the DBMS Lab?|The Database Management Systems Lab is 67 sq.m and supports 12 experiments.
+What is the Compiler Design Lab?|This lab is 80 sq.m and has 12 experiments.
+What is the Hadoop & BigData Lab?|The Hadoop & Big Data Lab is 67 sq.m with 8 experiments.
+What is the Software Testing Lab?|The Software Testing Lab is 67 sq.m and has 12 experiments.
+What is the C Programming Lab?|The C Programming Lab is 111 sq.m and supports 16 experiments.
+What is the IT Workshop Lab?|The IT Workshop Lab is 70 sq.m and has 14 experiments.
