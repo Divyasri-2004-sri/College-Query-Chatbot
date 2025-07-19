@@ -1,6 +1,5 @@
-College | Ideal Institute of Technology
 NAAC Accreditation|NAAC A+
-
+college name|Ideal institute of technology.
 Hi|Hello! How can I assist you today?
 Hello|Hi there! What would you like to know?
 Hey|Hey! I'm here to help you with college-related queries.
@@ -64,7 +63,7 @@ Are you human? r u human?|Nope, I’m a friendly chatbot made for you!
 Tell me a fun fact|Ideal Institute has more labs than a science fiction movie set — including one just for AI & ML!
 Another fun fact please|Did you know? The CSE department has faster internet than many coffee shops!
 Give me a college fact|Ideal Institute started in 2009 and has already made a huge name for itself. Not bad for a teenager, right?
-Fun fact about faculty|Some of our professors have more degrees than a thermometer!
+Fun fact |Some of our professors have more degrees than a thermometer!
 Tell me something cool|CSE students here build real-world projects before their final year — cool, right?
 What’s interesting here?|We host workshops with IITs and have 24/7 Wi-Fi — yes, even at night!
 Entertain me with a fact|The Java Lab here has 35 machines. That’s more CPUs than most gamers own!
@@ -90,13 +89,38 @@ Do you have good placements? Do u have good placements?|Yes, our placement cell 
 Do you have workshops or guest lectures? Do u have workshops or guest lectures?|Absolutely! We collaborate with IITs and host regular technical sessions and entrepreneurship events.
 
 
-Our college offers B.Tech, MBA, and BBA courses.
-Admissions open in June and close in August.
-Hostel fees are 50,000 INR per year.
-Scholarships are available for the top 10% of students.
-Modern labs and sports facilities are available.
-The campus is Wi-Fi enabled.
-Placement drives are conducted every December.
+Our or your college offers which cources or programs|our college offers B.Tech, MBA, and BBA courses.
+When do admissions open and close?|Admissions open in June and close in August.
+
+What is the fees? what is fee? May i know the fees details?|The tuition fee structure varies by program. For example, the hostel fees are ₹50,000 per year. Please contact the admission office for full details on program-specific fees.
+What are the fee details?|The annual tuition fee varies by course. For B.Tech, it's approximately ₹50,000 per year. Hostel accommodation is available at ₹50,000 per year. Other programs like MBA and BBA have different fee structures. For exact details, please contact the administration.
+Fee details?|The B.Tech course costs about ₹50,000 per year. MBA and BBA fees may differ. Hostel charges are ₹50,000 annually. Scholarships are available for top-performing students.
+Can you share the fee structure?|Yes! B.Tech is around ₹50,000/year. Hostel: ₹50,000/year. MBA/BBA fees vary. Contact the admin office for exact breakdown.
+Tell me about tuition fees?|Our college offers affordable education. B.Tech tuition is ₹50,000/year. Other courses have separate fee structures. Hostel is also ₹50,000/year.
+
+What are the hostel charges?|The hostel fees are ₹50,000 per year, including accommodation and basic amenities.
+
+How much does B.Tech cost?|The B.Tech tuition varies. Please contact the college admission office for exact program fee details.
+
+Are there any other charges apart from tuition?|Yes, additional charges may include exam fees, lab fees, and hostel charges, depending on your course and facilities used.
+
+Are scholarships available?|Yes, scholarships are available for the top 10% of students.
+
+What facilities does the campus provide?|Modern labs, sports facilities, and a Wi-Fi enabled campus are available.
+
+When are placement drives conducted?|Placement drives are conducted every December.
+
+Tell me about your faculty. about faculty.|Our faculty at Ideal Institute of Technology are highly qualified, experienced, and passionate about teaching. Many hold PhDs and have years of industry and academic experience.
+What is special about your professors?|Our professors combine academic excellence with real-world expertise. They are approachable, supportive, and committed to student success.
+Who teaches at Ideal Institute?|Experienced faculty members with specializations in various disciplines teach at our college. They regularly participate in workshops, research, and training programs.
+
+Tell me about your classrooms. about class.|Our classrooms are modern, spacious, and well-ventilated. They are equipped with smart boards and projectors to support interactive learning.
+
+What is the classroom environment like?|The environment is student-friendly and academically focused. Classrooms are designed to promote collaboration and effective learning.
+
+Do you have smart classrooms?|Yes, Ideal Institute of Technology has smart classrooms with digital boards and audio-visual tools to enhance the learning experience.
+
+Are classrooms air-conditioned?|Some of our key classrooms and seminar halls are air-conditioned to ensure comfort during lectures and presentations.
 
 Who is the chairman of the college?|Dr. Paruchuri Krishna Rao M.Sc., Ph.D is the Chairman.
 Who is the president of the college?|Dr. N.S. Murthy is the President.
@@ -173,14 +197,17 @@ What is the Software Testing Lab?|The Software Testing Lab is 67 sq.m and has 12
 What is the C Programming Lab?|The C Programming Lab is 111 sq.m and supports 16 experiments.
 What is the IT Workshop Lab?|The IT Workshop Lab is 70 sq.m and has 14 experiments.
 
-Contact details?|Sure! You can contact us at:
-Principal: 9848179610
-TPO: 9032549988
-Email: 6k.principal@jntuk.edu.in, tpo@idealtech.edu.in
+Contact details?|Sure! You can contact us at: Principal: 9848179610, TPO: 9032549988, Email: 6k.principal@jntuk.edu.in, tpo@idealtech.edu.in
 
 What is the vision of the placement department?|The vision of our Placement Department is “Empowering Futures through Successful Careers.” We’re committed to shaping student careers beyond academics by building skills, confidence, and strong industry connections.
+
 Tell me about your placement department|At Ideal Institute of Technology, the Placement Department is not just about job placements—it’s about empowering students from day one through skill development, career guidance, and real-world exposure.
+
 What does the placement cell do?|We offer personalized career counseling, industry-aligned workshops, seminars, internships, and job opportunities. We focus on both technical and soft skill development to make students career-ready.
+
+What is placement?|Placement refers to the process where the college helps students get jobs in companies after completing their courses. At Ideal Institute of Technology, the Placement Department connects students with top recruiters, conducts training sessions, and organizes campus placement drives.
+
+May I know the college placements?|Ideal Institute of Technology has a dedicated Placement Department focused on shaping student careers. We conduct annual placement drives in December, inviting top companies. Students are trained in soft skills, technical skills, and interview preparation. We have a strong record of successful placements across IT, core engineering, and management sectors.
 
 Do you provide placement support? Do u provide placement support?|Yes, we do! Our dedicated team connects students with top companies, organizes placement drives, and ensures each student gets personalized attention.
 
@@ -198,10 +225,7 @@ When does placement training begin?|Career development starts from day one! We c
 
 What support do students get for placements?|Everything from resume building and mock interviews to personality development and technical workshops. We prepare you fully for your dream job.
 
-Where can I reach the placement department?|📞 TPO: 9032549988  
-📧 Email: tpo@idealtech.edu.in  
-We're always happy to help!
-
+Where can I reach the placement department?|📞 TPO: 9032549988  📧 Email: tpo@idealtech.edu.in We're always happy to help!
 
 Tell me about your placements|Our Placement Department helps students get job-ready with training, industry tie-ups, internships, and company visits. Over 50 top recruiters visit us each year!
 
@@ -251,8 +275,7 @@ What companies visit your college?|Various companies from IT, manufacturing, cor
 
 Do you prepare students for interviews? Do u prepare students for interviews?|Yes, we train students in all areas like aptitude, communication, tech skills, and mock interviews to boost confidence.
 
-Can I contact your placement department?|Definitely! 📞 TPO: 9032549988  
-📧 Email: tpo@idealtech.edu.in
+Can I contact your placement department?|Definitely! 📞 TPO: 9032549988  📧 Email: tpo@idealtech.edu.in
 
 Who can I talk to for placement help?|You can reach our TPO Mr. S J Sreeram Pullakavi or email us at tpo@idealtech.edu.in
 
@@ -261,7 +284,6 @@ Do you have group discussion rooms?|Yes! We have dedicated GD rooms, fully equip
 Can u help with my resume? Can you help with my resume?|Yes! We offer resume building sessions as part of our pre-placement training. We’ll help you make it perfect!
 
 What’s the purpose of your placement cell? What is the purpose of your placement cell?|We help you bridge the gap between academics and industry, and make sure you’re ready for real-world success.
-
 
 
 Tell me about the Placement Department|Our Placement Department, established in 2009, connects students with 50+ top companies. We help with jobs, training, internships, and career guidance.
@@ -306,8 +328,7 @@ Do u help in higher studies?|Sure! We organize sessions with experts and guide y
 
 Who is the placement officer?|Our Placement Head is Mr. S. J. Sreeram Pullakavi. He has rich teaching and industry experience.
 
-Who can I contact for placement info?|📞 TPO: 9032549988  
-📧 Email: tpo@idealtech.edu.in
+Who can I contact for placement info?|📞 TPO: 9032549988   📧 Email: tpo@idealtech.edu.in
 
 What is the purpose of your placement cell?|We aim to connect students with jobs, help with training, guide careers, and even support startups and entrepreneurship.
 
@@ -391,14 +412,7 @@ What services does your library provide?|Our library offers a variety of service
 
 What are the main library services?|We provide reading, reference, circulation, user guidance, catalog, online, and reprographic services.
 
-Can you list the services in your library?|Sure! Our services include:
-- Reading areas
-- Reference help
-- Book circulation
-- User guidance
-- Catalog access
-- Online services
-- Reprographic (printing & copying) services
+Can you list the services in your library?|Sure! Our services include: - Reading areas - Reference help - Book circulation - User guidance - Catalog access - Online services - Reprographic (printing & copying) services
 
 Tell me about reading services?|We offer a peaceful reading space where you can sit, relax, and read books, journals, and magazines in a calm environment.
 
@@ -719,6 +733,7 @@ Are there extracurricular activities at the college? | Yes, students can engage 
 Are there any student committees? | Yes, the college hosts 28 committees covering everything from academics, research, sports, women empowerment, and student welfare.
 
 Does the college have hostel or canteen facilities? | Yes, the campus includes a hygienic and affordable canteen and offers well-maintained hostel facilities for students.
+
 What makes Ideal Institute of Technology unique? | Its NAAC A+ grade, modern labs, focus on holistic development, industry partnerships, and student-centric approach make it stand out.
 
 What you know? What u know? | I can share details about Ideal Institute of Technology, including its courses, infrastructure, placements, library, transportation, canteen, playground, NAAC A+ accreditation, committees, and more. Feel free to ask me anything about the college!
